@@ -1,0 +1,7 @@
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\bin\Debug\Weather.Wrapper.dll
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\bin\Debug\Weather.Wrapper.pdb
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\bin\Debug\Weather.Factory.dll
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\bin\Debug\Weather.Factory.pdb
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\obj\Debug\Weather.Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\obj\Debug\Weather.Wrapper.dll
+C:\Users\Jk\Documents\Weather\Weather.Wrapper\obj\Debug\Weather.Wrapper.pdb

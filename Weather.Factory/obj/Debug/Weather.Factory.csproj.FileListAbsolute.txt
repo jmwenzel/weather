@@ -1,0 +1,6 @@
+C:\Users\Jk\Documents\Weather\Weather.Factory\bin\Weather.Factory.dll.config
+C:\Users\Jk\Documents\Weather\Weather.Factory\bin\Weather.Factory.dll
+C:\Users\Jk\Documents\Weather\Weather.Factory\bin\Weather.Factory.pdb
+C:\Users\Jk\Documents\Weather\Weather.Factory\obj\Debug\Weather.Factory.csprojResolveAssemblyReference.cache
+C:\Users\Jk\Documents\Weather\Weather.Factory\obj\Debug\Weather.Factory.dll
+C:\Users\Jk\Documents\Weather\Weather.Factory\obj\Debug\Weather.Factory.pdb
