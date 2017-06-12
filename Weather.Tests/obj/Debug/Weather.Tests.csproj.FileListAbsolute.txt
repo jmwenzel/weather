@@ -3,3 +3,13 @@ C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Weather.Tests.pdb
 C:\Users\Jk\Documents\Weather\Weather.Tests\obj\Debug\Weather.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Jk\Documents\Weather\Weather.Tests\obj\Debug\Weather.Tests.dll
 C:\Users\Jk\Documents\Weather\Weather.Tests\obj\Debug\Weather.Tests.pdb
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Moq.dll
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Weather.Factory.dll
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Weather.Wrapper.dll
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Weather.Factory.pdb
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Weather.Wrapper.pdb
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\Moq.xml
+C:\Users\Jk\Documents\Weather\Weather.Tests\bin\Debug\nunit.framework.xml

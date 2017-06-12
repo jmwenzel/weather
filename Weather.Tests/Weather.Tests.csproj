@@ -40,6 +40,10 @@
     <Reference Include="Moq">
       <HintPath>..\packages\Moq.4.7.25\lib\net45\Moq.dll</HintPath>
     </Reference>
+    <Reference Include="nunit.framework, Version=3.0.5813.39031, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.0.1\lib\net45\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
@@ -59,6 +63,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Weather.Factory\Weather.Factory.csproj">
+      <Project>{a9f44353-94a0-49a5-ae50-5a32d090be38}</Project>
+      <Name>Weather.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Weather.Wrapper\Weather.Wrapper.csproj">
+      <Project>{58461842-7676-4a87-930a-9362564af608}</Project>
+      <Name>Weather.Wrapper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

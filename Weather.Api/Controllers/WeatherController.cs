@@ -12,10 +12,15 @@ namespace Weather.Api.Controllers
     {
         private readonly IWrapper _wrapper;
 
-        public WeatherController()
+        public WeatherController(): this(new WeatherWrapper())
         {
-            _wrapper = new WeatherWrapper();
         }
+
+        public WeatherController(IWrapper wrapper)
+        {
+            _wrapper = wrapper;
+        }
+
         [HttpGet]
         public IHttpActionResult Forecast()
         {
